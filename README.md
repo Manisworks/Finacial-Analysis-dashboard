@@ -39,9 +39,9 @@ Using different types of visuals, filters, slicers preparing a meaningful dashbo
 11. Sales by Year and Month ,
 12. Top 3 Products by Sales amount.  
 
-  ![dashboard screenshot ]("C:\Users\mkman\OneDrive\Desktop\Screenshot 2024-10-20 194936.png")
 
 
+snap shot of pwer bi Screenshot![Screenshot 2024-10-20 194930](https://github.com/user-attachments/assets/5baf8ded-73eb-4863-8a57-58376dd65d19)
         
 
 
