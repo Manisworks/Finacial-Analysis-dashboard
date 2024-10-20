@@ -4,7 +4,7 @@
 
  FINANCIAL ANALYSIS
 
-### Dashboard Link :()
+### Dashboard Link :(https://github.com/Manisworks/Finacial-Analysis-dashboard/blob/main/Financial%20analysis%20Dashboard.pbit)
 
 ## Problem Statement
 Designed to help businesses make informed decisions and drive growth with interactive visualizations and real time updates, this dashboard brings complex data to life.
